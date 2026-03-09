@@ -1,6 +1,6 @@
 # Team Nyang's
 
-![screenshot](asdf/logo.png)
+![screenshot](../asdf/logo.png)
 
 ## About
 
