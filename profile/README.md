@@ -30,3 +30,5 @@ Just developers who like making interesting things — preferably with a cat nea
 
 - If it compiles, ship it.
 - If it doesn't compile, blame the cat.
+
+## [Join We're discord server right now!](https://discord.gg/WsmvxwNwfE)
